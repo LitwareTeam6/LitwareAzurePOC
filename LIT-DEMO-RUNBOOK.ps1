@@ -18,6 +18,6 @@ if ($Webhookdata -ne $null)
 }
 else
 {
-	write-output "No Webhookdata received. GIT V1"
+	write-output "No Webhookdata received. GIT V2"
 	
 }
